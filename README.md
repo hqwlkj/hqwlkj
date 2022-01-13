@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Yanghc .
+I'm Yang hc .
 
 - 🍒  A post-90s person who loves software development
 - 📍  Chong Qing
