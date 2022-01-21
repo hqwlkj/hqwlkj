@@ -2,12 +2,12 @@
 
 I'm Yang hc （Bill） .
 
-- 🍒  A post-90s person who loves software development
-- 📍  Chong Qing
-- 👨‍🎓  CQU
-- 👩‍💻  9 years of work
-- 🎖️  5 years in the army
-- 📧  [hqwlkj@sina.com](mailto:hqwlkj@sina.com)
+- 🍒  A post-90s person who loves software development.
+- 📍  Chong Qing.
+- 👨‍🎓  CQU.
+- 👩‍💻  9 years of work.
+- 🎖️  5 years in the army.
+- 📧  [hqwlkj@sina.com](mailto:hqwlkj@sina.com).
 
 
 
