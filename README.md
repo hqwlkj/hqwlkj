@@ -9,7 +9,7 @@
 <br/>
 
 - 🍒  A post-90s person who loves software development.
-- 📍  重庆.
+- 📍  重庆(CQ).
 - 👨‍🎓  CQU.
 - 👩‍💻  9 years of work.
 - 🎖️  5 years in the army.
