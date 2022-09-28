@@ -23,9 +23,16 @@ My ![Visitor Count](https://profile-counter.glitch.me/hqwlkj/count.svg) visitor
 
 # About My Github
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hqwlkj&layout=compact&theme=cobalt)](https://github.com/hqwlkj/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hqwlkj&layout=compact&langs_count=8&theme=cobalt)](https://github.com/hqwlkj/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=hqwlkj&show_icons=true&theme=cobalt)](https://github.com/hqwlkj/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=hqwlkj&show_icons=true&theme=cobalt)](https://github.com/hqwlkj/github-readme-stats)-->
+
+<div align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hqwlkj&layout=compact&langs_count=8&theme=cobalt" align="center" />
+<img src="https://github-readme-stats.vercel.app/api?username=hqwlkj&show_icons=true&theme=cobalt" align="center" />
+</div>  
+
+<br/>  
 
 
 ## My Skill Set  
