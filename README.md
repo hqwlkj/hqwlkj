@@ -6,7 +6,6 @@
 ### I'm Yang hc （Bill） .
 
 <br/>
-<br/>
 
 - 🍒  A post-90s person who loves software development.
 - 📍  重庆(CQ).
@@ -17,8 +16,9 @@
 <br/>
 <br/>
 
-
 My ![Visitor Count](https://profile-counter.glitch.me/hqwlkj/count.svg) visitor
+<br/>
+<br/>
 
 
 # About My Github
