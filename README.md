@@ -1,11 +1,10 @@
 ### Hi there 👋
-<img align="right" top='80' alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="right" top='60' alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="480"/>
 
 
 
 ### I'm Yang hc （Bill） .
 
-<br/>
 <br/>
 
 - 🍒  A post-90s person who loves software development.
@@ -15,8 +14,6 @@
 - 🎖️  5 years in the army.
 - 👨‍🦳  Father of two girls.
 - 📧  [hqwlkj@sina.com](mailto:hqwlkj@sina.com).
-<br/>
-<br/>
 <br/>
 <br/>
 
