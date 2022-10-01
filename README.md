@@ -13,6 +13,7 @@
 - 👨‍🎓  CQU.
 - 👩‍💻  9 years of work.
 - 🎖️  5 years in the army.
+- 👨‍🦳  Father of two girls.
 - 📧  [hqwlkj@sina.com](mailto:hqwlkj@sina.com).
 <br/>
 <br/>
