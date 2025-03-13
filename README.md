@@ -10,7 +10,7 @@
 - 🍒  Passionate about software development with a decade of professional experience.
 - 📍  Based in Chongqing (CQ), China.
 - 👨‍🎓  CQU.
-- 👩‍💻  10 years in the software development industry.
+- 👩‍💻  With over 10 years of experience in the software development industry.
 - 🎖️  Served 5 years in the army, honing discipline and leadership skills.
 - 👨‍🦳  Father of two girls.
 - 📧  [hqwlkj@sina.com](mailto:hqwlkj@sina.com).
